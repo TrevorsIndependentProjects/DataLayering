@@ -1,2 +1,6 @@
 # This is an example project
-I need to update the licensing and add information to the readme.
+
+TODO:
+- [ ] Add licensing information
+- [ ] Configure .gitignore
+- [ ] Configure devops pipeline
